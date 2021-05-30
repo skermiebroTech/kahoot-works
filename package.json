@@ -24,7 +24,7 @@
     "multer": "^1.4.2",
     "request": "^2.88.2",
     "user-agents": "^1.0.559",
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "electron": "^9.0.5",
